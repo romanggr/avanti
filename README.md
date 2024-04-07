@@ -1,5 +1,2 @@
 # Avanti
-If you want start project
-1) yarn add
-2) yarn run server
-3) yarn run dev
+This is a simple website for a local dental clinic 
